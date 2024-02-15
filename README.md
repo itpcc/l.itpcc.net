@@ -9,7 +9,7 @@ That's why.
 
 ## How?
 
-0. You need ~~$5~~ ~~$6~~ server  (I use my existing PHP web server) with PHP support with `fopen` allowed (Since the script need to cache Google Sheet CSV info for **SPEED ~~AND POWER~~**.
+0. You need ~~$5~~ $6 server  (I use my existing PHP web server) with PHP support with `fopen` allowed (Since the script need to cache Google Sheet CSV info for **SPEED ~~AND POWER~~**.
 1. Setup Google sheet to contain 2 column. One for the code, one for target URL. See [short-link.csv](./short-link.csv) for an example.
 2. Setup web server to allow the following
   - Allow Read/Write file `./short-link.csv`.
